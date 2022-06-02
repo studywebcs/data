@@ -1,0 +1,17 @@
+
+
+SELECT date(created), count(idapp) as number_issues FROM `splitbrain_dokuwiki` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `phpmyadmin` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `opencart_opencart` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `phpbb_issues` GROUP by date(created)
+
+
+SELECT date(created), count(idapp) as number_issues FROM `phppgadmin_phppgadmin` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `prestashop_prestashop` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `vanilla_vanilla` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `wikimedia_mediawiki` GROUP by date(created)
+
+SELECT date(created), count(idapp) as number_issues FROM `dolibarr_dolibarr` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `kanboard_kanboard` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `openemr_openemr` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `roundcube_roundcubemail` GROUP by date(created)

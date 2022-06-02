@@ -1,0 +1,17 @@
+
+
+SELECT date(created), count(idapp) as number_issues FROM `dokuwiki_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `phpmyadmin_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `opencart_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `phpbb_bugs_more` GROUP by date(created)
+
+
+_SELECT date(created), count(idapp) as number_issues FROM `phppgadmin_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `prestashop_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `vanilla_bugs_more` GROUP by date(created)
+_SELECT date(created), count(idapp) as number_issues FROM `mediawiki_bugs_more` GROUP by date(created)
+
+SELECT date(created), count(idapp) as number_issues FROM `dolibarr_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `kanboard_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `openemr_bugs_more` GROUP by date(created)
+SELECT date(created), count(idapp) as number_issues FROM `roundcubemail_bugs_more` GROUP by date(created)
