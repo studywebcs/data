@@ -1,0 +1,32 @@
+CS;phpmyadmin;dokuwiki;opencart;phpbb;prestashop;vanilla;dolibarr;roundcubemail;openemr;kanboard
+CS;COR;COR;COR;COR;COR;COR;COR;COR;COR;COR
+CyclomaticComplexity ;++;+;;--;+;++;++;++;+;-
+NPathComplexity ;++;+;;--;;++;++;++;++;--
+ExcessiveMethodLength ;++;+;;--;+;++;++;++;++;
+ExcessiveClassLength ;;+;;--;+;++;++;;+;
+ExcessiveParameterList ;++;-;;-;++;;++;;++;-
+ExcessivePublicCount ;+;;;-;+;++;++;;++;
+TooManyFields ;;;++;--;++;++;++;+;+;
+TooManyMethods ;;;-;--;+;++;++;+;--;
+TooManyPublicMethods ;;+;;--;+;++;++;++;;
+ExcessiveClassComplexity ;+;+;;--;;++;++;+;+;--
+NumberOfChildren ;;;;-;+;++;++;++;;-
+DepthOfInheritance ;;;;;;;;;-;
+CouplingBetweenObjects ;;;;-;++;++;++;++;++;
+DevelopmentCodeFragment ;+;+;;;+;++;++;;--;
+UnusedPrivateField ;;;;;-;++;++;;+;
+UnusedLocalVariable ;;--;;;-;+;++;;++;-
+UnusedPrivateMethod ;+;;;;++;;+;;++;
+UnusedFormalParameter ;-;;;--;;++;++;++;-;--
+embed.JS ;-;;;-;-;++;++;+;++;--
+inline.JS ;-;++;-;-;;--;++;++;++;
+embed.CSS ;+;++;--;+;+;+;+;++;;-
+inline.CSS ;++;;-;-;;++;++;+;++;
+css.in.JS ;+;--;--;--;-;++;-;;++;+
+css.in.JS..jquery ;+;;--;-;;++;;;++;++
+max.lines ;+;+;-;--;;++;;;++;++
+max.lines.per.function ;+;+;;--;;++;;;++;
+max.params ;++;;-;-;++;++;;;++;
+complexity ;+;+;-;-;++;++;;-;++;
+max.depth ;++;;-;-;+;++;;;++;
+max.nested.callbacks ;++;+;;-;+;++;+;-;++;--

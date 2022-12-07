@@ -1,0 +1,30 @@
+CyclomaticComplexity ; 0.937299786675227 ; 
+NPathComplexity ; 0.994213638562323 ; 
+ExcessiveMethodLength ; 0.918968743158758 ; 
+ExcessiveClassLength ; 0.666094906634196 ; 
+ExcessiveParameterList ; 1 ; unique <=3
+ExcessivePublicCount ; 1 ; unique <=3
+TooManyFields ; 1 ; unique <=3
+TooManyMethods ; 0.660435101323014 ; 
+TooManyPublicMethods ; 0.885718063498326 ; 
+ExcessiveClassComplexity ; 0.841880508966704 ; 
+NumberOfChildren ; 1 ;  all cs=1
+DepthOfInheritance ; 1 ; 0
+CouplingBetweenObjects ; 1 ; unique <=3
+DevelopmentCodeFragment ; 1 ; unique <=3
+UnusedPrivateField ; 1 ; unique <=3
+UnusedLocalVariable ; 0.98787101977566 ; 
+UnusedPrivateMethod ; 1 ; unique <=3
+UnusedFormalParameter ; 0.412091495918048 ; 
+embed.JS ; 0.150543097187741 ; 
+inline.JS ; 0.155641330131806 ; 
+embed.CSS ; 1 ; unique <=3
+inline.CSS ; 0.193157202212984 ; 
+css.in.JS ; 0.560459659830435 ; 
+css.in.JS..jquery ; 0.284276055770932 ; 
+max.lines ; 0.680585234746594 ; 
+max.lines.per.function ; 0.580558635065441 ; 
+max.params ; 0.292587393371731 ; 
+complexity ; 0.54317721170128 ; 
+max.depth ; 0.373359505694118 ; 
+max.nested.callbacks ; 0.400942319206929 ; 

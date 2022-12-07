@@ -1,0 +1,31 @@
+CS; cor_ts; p; sig
+CyclomaticComplexity ; 0.12 ; 0.44918 ; 
+NPathComplexity ; 0.08 ; 0.6243 ; 
+ExcessiveMethodLength ; 0.14 ; 0.37951 ; 
+ExcessiveClassLength ; 0.29 ; 0.07393 ; 
+ExcessiveParameterList ; 0.5 ; 0.00094 ;   *
+ExcessivePublicCount ; 0.23 ; 0.15847 ; 
+TooManyFields ; 0.21 ; 0.18552 ; 
+TooManyMethods ; 0.23 ; 0.15687 ; 
+TooManyPublicMethods ; 0.18 ; 0.26437 ; 
+ExcessiveClassComplexity ; 0.07 ; 0.6643 ; 
+NumberOfChildren ; 0.55 ; 0.00027 ;   *
+DepthOfInheritance ; 0.05 ; 0.77425 ; 
+CouplingBetweenObjects ; 0.45 ; 0.00392 ;   *
+DevelopmentCodeFragment ; 0.43 ; 0.00588 ;   *
+UnusedPrivateField ; -0.51 ; 0.00088 ;   *
+UnusedLocalVariable ; -0.28 ; 0.08066 ; 
+UnusedPrivateMethod ; 0.44 ; 0.00448 ;   *
+UnusedFormalParameter ; -0.04 ; 0.8017 ; 
+embed.JS ; -0.28 ; 0.07652 ; 
+inline.JS ; -0.16 ; 0.31376 ; 
+embed.CSS ; 0.52 ; 0.00061 ;   *
+inline.CSS ; -0.04 ; 0.79012 ; 
+css.in.JS ; -0.35 ; 0.02578 ;   *
+css.in.JS..jquery ; 0 ; 0.98467 ; 
+max.lines ; -0.17 ; 0.28203 ; 
+max.lines.per.function ; -0.02 ; 0.92534 ; 
+max.params ; 0.61 ; 3e-05 ;   *
+complexity ; 0.59 ; 6e-05 ;   *
+max.depth ; 0.29 ; 0.07403 ; 
+max.nested.callbacks ; 0.57 ; 0.00012 ;   *
