@@ -1,5 +1,5 @@
 # data
-descript of data repository
+description of data repository
 
 
 ## analysis
